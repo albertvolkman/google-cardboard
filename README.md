@@ -1,4 +1,4 @@
-Google Carboard availability checker
+Google Cardboard availability checker
 ====================================
 
 Install
